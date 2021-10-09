@@ -1,5 +1,6 @@
 
-.box {
+.box,
+.nesting {
   background-color: #81B214;
   color: #F58634;
   text-align: center;
@@ -7,3 +8,11 @@
   padding: 20px;
 }
 
+.nesting {
+  background-color: #206A5D;
+}
+
+.divide {
+  height: 20px;
+
+}
