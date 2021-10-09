@@ -8,11 +8,24 @@
   padding: 20px;
 }
 
+.double {
+  padding: 40px 0;
+  vertical-align: middle;
+}
+
 .nesting {
   background-color: #206A5D;
 }
 
 .divide {
   height: 20px;
-
 }
+
+.mt {
+  margin-top: 20px;
+}
+
+.mt-2 {
+  margin-top: 40px;
+}
+

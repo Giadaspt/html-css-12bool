@@ -20,6 +20,14 @@
   flex-wrap: wrap;
 }
 
+.row .space-a {
+  justify-content: space-around;
+}
+
+.row .space-b {
+  justify-content: space-between;
+}
+
 [class*='col-'] {
   flex: 0 0 auto;
 }
